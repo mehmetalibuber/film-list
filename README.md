@@ -1,2 +1,2 @@
-# movie-list
-JavaScript Movie List Project - Improve your JavaScript skills
+# film-list
+JavaScript Film List Project - Improve your JavaScript skills
