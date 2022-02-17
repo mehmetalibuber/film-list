@@ -115,4 +115,4 @@ emp4.Increase(100);
 //offline listener
 window.addEventListener("offline", () => {
     console.log("no internet connection");
-})
+}) 
